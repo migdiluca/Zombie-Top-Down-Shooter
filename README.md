@@ -3,7 +3,7 @@
 ## About
 This repository is for the assignments made for the course 'Introducción a videojuegos' (Introduction to videogames).
 
-The game is a survival game in which the player's objective is to survive as many waves as he can.
+The game is a survival game developed in Unity, in which the player's objective is to survive as many waves as he can.
 
 ## Try it!
 
